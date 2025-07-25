@@ -15,7 +15,7 @@ This project is an AI-powered **Emotion Detection** system that detects human fa
 Below are examples of the model's predictions on various emotions detected through facial expressions:
 
 ### 😠 Angry (70.7%)
-![Angry](./assets/Screenshot%2025-07-25%123238.png)
+![Angry](./assets/Screenshot%202025-07-25%123238.png)
 
 ---
 
