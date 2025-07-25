@@ -35,7 +35,7 @@ Below are examples of the model's predictions on various emotions detected throu
 ---
 
 ### 😐 Neutral (65.7%)
-![Neutral](./assets/Screenshot%202025-07-25%20123238.png)
+![Neutral]([./assets/Screenshot%202025-07-25%20123238.png](https://github.com/Shreshthbajpai/Emotion-Detector/blob/main/assets/Screenshot%202025-07-25%20122914.png))
 
 ---
 
