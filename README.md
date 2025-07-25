@@ -13,27 +13,27 @@ This is a real-time **Emotion Detection** system using deep learning and compute
 ## 📸 Sample Outputs
 
 ### 😐 Neutral (65.7%)
-![Neutral](./assets/Screenshot%202025-07-25%20122914.png)
+<img src="./assets/Screenshot 2025-07-25 122914.png" width="300"/>
 
 ---
 
 ### 😲 Surprise (39.2%)
-![Surprise](./assets/Screenshot%202025-07-25%20123037.png)
+<img src="./assets/Screenshot 2025-07-25 123037.png" width="300"/>
 
 ---
 
 ### 😃 Happy (96.5%)
-![Happy](./assets/Screenshot%202025-07-25%20123137.png)
+<img src="./assets/Screenshot 2025-07-25 123137.png" width="300"/>
 
 ---
 
 ### 😢 Sad (48.4%)
-![Sad](./assets/Screenshot%202025-07-25%20123100.png)
+<img src="./assets/Screenshot 2025-07-25 123100.png" width="300"/>
 
 ---
 
 ### 😠 Angry (70.7%)
-![Angry](./assets/Screenshot%202025-07-25%20123238.png)
+<img src="./assets/Screenshot 2025-07-25 123238.png" width="300"/>
 
 ---
 
