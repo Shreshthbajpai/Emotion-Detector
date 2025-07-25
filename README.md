@@ -30,7 +30,7 @@ Below are examples of the model's predictions on various emotions detected throu
 ---
 
 ### 😲 Surprise (39.2%)
-![Surprise](./assets/Screenshot%202025-07-25%20123137.png)
+![Surprise](./assets/Screenshot 2025-07-25 123037.png)
 
 ---
 
